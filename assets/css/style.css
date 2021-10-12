@@ -155,7 +155,7 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top: 50%; /*do anh co ti le 2:1 nen su dung padding-top: 50% co nghia 50% chieu ngang chinh no*/
-    background: url(/assets/img/slider/chicago.jpg) top center / cover no-repeat; /*background css*/
+    background: url(/FE_TheBand/assets/img/slider/chicago.jpg) top center / cover no-repeat; /*background css*/
 }
 
 #slider .text-content {
